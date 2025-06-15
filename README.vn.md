@@ -1,4 +1,7 @@
-# Local Music Player App
+# 🌍 Ngôn ngữ
+[English](README.md) | [Việt Nam](README.vn.md)
+
+# Ứng dụng phát nhạc vùng miền
 
 ### 🚀 1 ứng dụng giúp bạn nghe nhạc của riêng các tỉnh thành Việt Nam khi bạn du lịch tới đó !
 
